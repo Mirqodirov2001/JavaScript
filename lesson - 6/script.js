@@ -38,7 +38,7 @@
 //This o'zini ichidaga qiymatlarni olib beradi;
 //This object ichidagi hamma narsani qaytarib beradi;
 
-
+/*
 const obj = {
 
     isName: `New Object`,
@@ -50,6 +50,7 @@ const obj = {
     extar: `smth`
 
 }
+*/
 
 //obj.getInfo()
 //console.log(obj)
